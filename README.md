@@ -1,8 +1,5 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
-
+# a_mirage 
+это мой первый опыт в гите
 Description of the app ...
 
 ## Demo App
